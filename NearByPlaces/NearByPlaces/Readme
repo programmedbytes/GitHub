@@ -1,3 +1,4 @@
+
 Problem Definition :
 Design an application to create a local building as object. The map will have details about major highlights of building.  On click function will produce either a image/video frame of highlight point. [Minimum  4 points in map].
 
@@ -12,7 +13,9 @@ Technology stack :
 2.	Google Maps Places API for fetching the places on the map
 3.	Java JDK + JRE environment Version 1.8 for backend development
 4.	XML for UI development
+
 Functions used in application : 
+
 1.	public void requestApi(String place)
     This method takes various information in the form of strings and add it to String builder. This method gives information such as location in the form of longitude and latitudes, The radius in which the desired places is to be searched, the place which we search, the google key to actiate map utilities , and pass it on to an async task (DownloadUrl).
 
