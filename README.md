@@ -45,3 +45,10 @@ Key Functionality :
 ----------------------------------------------------------------------------------------------------------------------------------------
 The app basically focuses on to highlight specific points of a specific building and those points are highlighted using markers, this is done with the help of google places api, These markers are already there beacause our app is generalised  that is we pass some place in the edit text and search for it and our app gives information about those places which is in the radius of 1000 meters and places markers on it. When we click on that marker, we get a snippet with a title and some information, also when we click on that window we get redirected to google maps information page which is related to that marker location.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+NOTE : 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. README FILE IS NAMED AS Readme.md
+2. NearByPlaces is the name of Main Project
+3. Project Based Learning Assignment.pdf is the name of the document file wherein one can find more information about the project.
