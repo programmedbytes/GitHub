@@ -52,3 +52,4 @@ NOTE :
 1. README FILE IS NAMED AS Readme.md
 2. NearByPlaces is the name of Main Project
 3. Project Based Learning Assignment.pdf is the name of the document file wherein one can find more information about the project.
+4. Contributor : Snehal Nerkar ( Roll no 17 )
